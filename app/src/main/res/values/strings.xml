@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="emailId">EmailId</string>
+    <string name="mobileNumber">MobileNumber</string>
+    <string name="countryCode">CountryCode</string>
+    <string name="userType">UserType</string>
+</resources>
